@@ -1,0 +1,16 @@
+firstname: bogdan
+secondname: olegovuch
+middlename: koba
+bitrh date: 08/03/2004 00:00:00
+number of student ticket: 424234
+facultet: wef
+group: 123
+
+firstname: oleksandr
+secondname: 
+middlename: boretskiy
+bitrh date: 01/01/0001 00:00:00
+number of student ticket: 0
+facultet: 
+group: 
+

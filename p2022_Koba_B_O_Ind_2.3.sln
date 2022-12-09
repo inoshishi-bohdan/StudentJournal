@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2022_Koba_B_O_Ind_2.3", "p2022_Koba_B_O_Ind_2.3\p2022_Koba_B_O_Ind_2.3.csproj", "{A3C8D819-F6CF-44D5-8BC8-7E8822C9B534}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6EFE1767-5103-46AD-BB55-4563663B9855}"
+	ProjectSection(SolutionItems) = preProject
+		WinForms_Students.txt = WinForms_Students.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C8D819-F6CF-44D5-8BC8-7E8822C9B534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C8D819-F6CF-44D5-8BC8-7E8822C9B534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C8D819-F6CF-44D5-8BC8-7E8822C9B534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C8D819-F6CF-44D5-8BC8-7E8822C9B534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5323A4CC-2837-4114-A98C-E200B29672A3}
+	EndGlobalSection
+EndGlobal
